@@ -1,0 +1,11 @@
+gradio
+langchain-groq
+langchain-core
+deepagents
+pydantic
+requests
+folium
+python-dotenv
+langchain_google_genai
+statsmodels
+langchain_openai

@@ -1,0 +1,1 @@
+{"main_vars": ["temperature", "humidity", "wind_speed", "hour_sin", "hour_cos", "day_sin", "day_cos"], "non_stationary_cols": []}

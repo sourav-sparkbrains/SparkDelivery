@@ -12,7 +12,7 @@ _agent = None
 
 
 def get_agent():
-    """Get or create singleton agent instance with persistent memory"""
+    """Singleton agent instance with persistent memory"""
     global _store, _memory, _agent
 
     if _agent is None:
